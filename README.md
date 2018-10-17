@@ -3,7 +3,7 @@
 >   __A dream you dream together is reality.__</br>
 >                                           
 
->by John Lennon
+>by John Lennon ~
 
 </br></br>
 
