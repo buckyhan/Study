@@ -21,6 +21,9 @@ https://balamaci.ro/kafka-streams-for-stream-processing/</br>
 * Kafka Streams for Stream processing extended version</br>
 https://speakerdeck.com/dongjin/kafka-streams-vs-spark-structured-streaming-extended?slide=18</br>
 
+* Stream Processing made simple with Kafka
+https://www.slideshare.net/HadoopSummit/stream-processing-made-simple-with-kafka
+
 * Kafka ecosystem explained</br>
 https://speakerdeck.com/dongjin/kafka-ecosystem-explained</br>
 
